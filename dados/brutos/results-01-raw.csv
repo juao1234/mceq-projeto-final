@@ -1,0 +1,616 @@
+﻿"id","submitdate","lastpage","startlanguage","seed","startdate","datestamp","randnumber","ER1P","PT1N","WL1P","ME1N","AG1P","RB1N","ER2N","PT2P","WL2N","ME2P","AG2N","RB2P","ER1N","PT1P","WL1N","ME1P","AG1N","RB1P","ER2P","PT2N","WL2P","ME2N","AG2P","RB2N","DemYearsOE","DemAcInd","DemBackground","DemBackground[other]","DemExperience[SQ002]","DemExperience[SQ001]","DemExperience[SQ003]","ThanksAndComments","interviewtime","groupTime389","randnumberTime","groupTime387","ER1PTime","PT1NTime","WL1PTime","ME1NTime","AG1PTime","RB1NTime","ER2NTime","PT2PTime","WL2NTime","ME2PTime","AG2NTime","RB2PTime","groupTime388","ER1NTime","PT1PTime","WL1NTime","ME1PTime","AG1NTime","RB1PTime","ER2PTime","PT2NTime","WL2PTime","ME2NTime","AG2PTime","RB2NTime","groupTime386","DemYearsOETime","DemAcIndTime","DemBackgroundTime","DemExperienceTime","groupTime385","ThanksAndCommentsTime"
+"46","2023-02-06 13:01:28","30","en","929900992","2023-02-06 12:48:36","2023-02-06 13:01:28","1","Your user does not have the necessary privileges for this resource.","8","https://my-university.org:8080/students/$20?fields=studentName,birthday,postalCode","The videos are sorted in ascending order regarding the published date.","APIGateway","https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","4","Academia","Student","","Intermediate (3)","Intermediate (3)","Beginner (2)","","777.91","","","","44.19","26.21","101.88","60.41","86.35","44.11","58.1","30.26","136.13","59.96","55.08","33.02","","","","","","","","","","","","","","","9.95","5.48","4.41","11.07","","11.3"
+"47","2023-02-06 13:03:00","30","en","","2023-02-06 12:48:00","2023-02-06 13:03:00","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway,Service 3","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+ status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","6","Both","Student","","Advanced (4)","Intermediate (3)","Novice (1)","","880.38","","","","44.87","64.53","123.88","67.35","68.73","52.57","62.76","29.35","136.33","44.48","36.23","30.94","","","","","","","","","","","","","","","21.11","7.54","5.68","30.63","","53.4"
+"48","2023-02-06 13:16:32","30","en","2009177770","2023-02-06 13:02:06","2023-02-06 13:16:32","1","Your user does not have the necessary privileges for this resource.","8","onst student = GET https://my-university.org:8080/students/$id?fields=fieldName1,fields=fieldName5,fields=fieldName7","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/$id5
+GET https://my-retail-store.com/customers/$id9
+GET https://my-retail-store.com/customers/$id13
+GET https://my-retail-store.com/customers/$id24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$id
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status,
+}","The products are sorted in ascending order regarding the shipping costs.","WebApp1, Mobile App1, Mobile App 2","DELETE https://my-grocery.com/products/$id12,$id16,$id27,$id35
+
+","","","","","","","","","","","","","4","Academia","Student","","Intermediate (3)","Intermediate (3)","Intermediate (3)","","875.6","","","","43.95","54.42","133.34","65.41","79.96","51.81","82.14","27.56","57.28","31.97","66.09","50.18","","","","","","","","","","","","","","","18.71","7.64","5.34","9.98","","89.82"
+"49","2023-02-06 13:19:36","30","en","209938567","2023-02-06 13:05:49","2023-02-06 13:19:36","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  attribute1: studentName,
+  attribute2: birthday,
+  attribute3: postalCode
+} ","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3, Service 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","Main Service, API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","1","Academia","Student","","Beginner (2)","Beginner (2)","Beginner (2)","","835.69","","","","","","","","","","","","","","","","","41.71","33.82","176.97","104.18","97.11","36.15","38.01","43.43","88.97","59.03","40.91","31.13","","7.5","7.97","5.97","16.38","","6.45"
+"50","","13","en","1339314067","2023-02-06 13:08:06","2023-02-06 13:08:06","2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"51","2023-02-06 13:32:34","30","en","1680935196","2023-02-06 13:12:11","2023-02-06 13:32:34","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = { studentName: response.studentName, birthday: response.birthday, postalCode: response.postalCode }
+","The videos are sorted in descending order regarding the published date.","service 3, all connections to service 3","Get https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/$id?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","change API gateway for MainService, change connection of MainService","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","0","Academia","Student","","Beginner (2)","Intermediate (3)","Beginner (2)","","1232.19","","","","","","","","","","","","","","","","","53.35","44.31","216.98","81.16","122.78","68.57","45.26","32.3","320.17","81.7","67.89","31.78","","33.94","7.32","10.58","9.75","","4.35"
+"52","2023-02-06 13:54:57","30","en","13229969","2023-02-06 13:40:04","2023-02-06 13:54:57","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday = response.birthday,
+  postalCode = repsonse.postalCode
+}","The videos are sorted in descending order regarding the published date.","Service 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","6","Academia","Student","","Beginner (2)","Intermediate (3)","Beginner (2)","","902.48","","","","","","","","","","","","","","","","","35.72","28.79","163.21","78.15","42.88","56.96","74.77","48.78","72.36","96.19","126.44","38.31","","13.66","7.13","4.56","10.62","","3.95"
+"53","2023-02-06 14:43:45","30","en","1426137504","2023-02-06 14:29:06","2023-02-06 14:43:45","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: reponse.postalCode,
+} ","The videos are sorted in descending order regarding the published date.","Service 3, Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","MainService, APIGateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","2","Academia","Researcher","","Intermediate (3)","Advanced (4)","Beginner (2)","","884.43","","","","","","","","","","","","","","","","","41.03","40.22","197.67","62.02","87.27","76.62","59.59","38.74","53","70.41","47.36","40.22","","21.01","3.19","7.29","34.65","","4.14"
+"54","2023-02-06 15:56:04","30","en","1011059555","2023-02-06 15:18:44","2023-02-06 15:56:04","1","Your user does not have the necessary privileges for this resource.","4","const student = GET https://my.university.org:8080/students/20?fields=studentName,birthday,postalCode
+-send retrieved object to next API","The videos are sorted in descending order regarding the published date.","API gateway ","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title:response.title,
+  attendees: response.attendees,
+status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","All the Web and Mobile Apps ","DELETE https://my-grocery.com/products/12,16,27,35
+","","","","","","","","","","","","","8","Both","Student","","Novice (1)","Novice (1)","Novice (1)","","2246.75","","","","87.77","72.47","406.85","454.13","68.37","78.06","126.44","72.4","507.68","140.53","111.39","69.15","","","","","","","","","","","","","","","18.24","5.45","4.39","12.3","","11.13"
+"55","2023-02-06 16:26:42","30","en","1615514760","2023-02-06 16:16:28","2023-02-06 16:26:42","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3, Service 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","MainService, API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","0","Academia","Student","","Intermediate (3)","Intermediate (3)","Beginner (2)","","622.5","","","","","","","","","","","","","","","","","30.86","30.5","165.17","52.67","62.39","39.26","31.97","35.71","52.23","38.44","29.26","17.93","","8.66","7.01","3.77","13.23","","3.44"
+"56","2023-02-06 19:21:54","30","en","751597038","2023-02-06 19:07:31","2023-02-06 19:21:54","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/$id?fields=20","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/$id=[5,9,13,24]","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$id=167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$id=[12,16,27,35]","","","","","","","","","","","","","1","Both","Student","","Novice (1)","Novice (1)","Novice (1)","","871.1","","","","33.41","44.62","141.35","67.5","36.26","61.23","66.56","31.07","134.52","72.19","38.03","87.66","","","","","","","","","","","","","","","22.5","9.3","5.81","14.26","","4.83"
+"57","2023-02-06 19:33:53","30","en","968105371","2023-02-06 19:23:56","2023-02-06 19:33:53","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","GET https://my-university.org:8080/students/20","The videos are sorted in descending order regarding the published date.","client 1, client 2, client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","1.5","Academia","Student","","Intermediate (3)","Beginner (2)","Beginner (2)","","605.61","","","","","","","","","","","","","","","","","35.17","29.55","55.66","59.32","43.68","38.07","38.72","44.6","85.92","53.04","32.72","37.17","","12.63","9.9","7.42","19.34","","2.7"
+"58","2023-02-06 20:08:35","30","en","1142177096","2023-02-06 19:55:37","2023-02-06 20:08:35","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/$20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/$id=5,9,13,24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$12,$16,$27,$35","","","","","","","","","","","","","4","Both","Student","","Beginner (2)","Beginner (2)","Beginner (2)","","787.97","","","","38.07","58.18","88.47","65.59","54.87","63.15","96.66","28.87","85.98","40.54","33.53","43.54","","","","","","","","","","","","","","","62.93","8.73","4.19","11.84","","2.83"
+"59","2023-02-06 21:36:47","30","en","1492287332","2023-02-06 21:25:10","2023-02-06 21:36:47","1","Your user does not have the necessary privileges for this resource.","8","HTTP GET https://my-university.org:8080/students/$20","The videos are sorted in descending order regarding the published date.","API Gateway","HTTP GET https://my-retail-store.com/customers/${5,9,13,24}","The 'birthday' field contained invalid input.","2","HTTP GET https://my-calendar.io:8080/entries/$167?","The products are sorted in ascending order regarding the shipping costs.","Main Service, Web APP 1, Mobile APP 1, Mobile APP 2","DELETE https://my-grocery.com/products/12, 16, 27, 35","","","","","","","","","","","","","1","Academia","Student","","Intermediate (3)","Beginner (2)","Beginner (2)","","707.22","","","","32.18","44.41","82.58","63.1","56.86","78.89","62.96","33.85","67.09","53.82","43.86","43.24","","","","","","","","","","","","","","","11.9","6.03","3.93","13.92","","8.6"
+"60","","3","en","382044455","2023-02-07 11:26:38","2023-02-07 11:29:02","1","Your user does not have the necessary privileges for this resource.","4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","144.35","","","","48.04","96.31","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"61","","5","en","98436874","2023-02-07 11:47:08","2023-02-07 11:49:36","1","Your user does not have the necessary privileges for this resource.","4",".","The videos are sorted in descending order regarding the published date.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","149.43","","","","40","35.78","29.32","44.33","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"62","2023-02-07 12:19:47","30","en","1634377430","2023-02-07 12:05:52","2023-02-07 12:19:47","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/$id=20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the number of views.","API Gateway","GET https://my-retail-store.com/customers/$id=5
+GET https://my-retail-store.com/customers/$id=9
+GET https://my-retail-store.com/customers/$id=13
+GET https://my-retail-store.com/customers/$id=24","The 'birthday' field was not filled out.","2","const response = GET https://my-calendar.io:8080/entries/$id=167
+const entry = {
+  title: response.title,
+  attendees = response.attendees,
+  status = response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$id1=12,$id2=16,$id3=27,$id4=35","","","","","","","","","","","","","2","Both","Student","","Beginner (2)","Beginner (2)","Novice (1)","","843.4","","","","55.73","30.35","144.73","69.16","88.09","46.57","98.65","28.9","95.24","74.49","30.24","47.89","","","","","","","","","","","","","","","7.52","7.5","4.44","10.25","","3.65"
+"63","2023-02-07 16:13:26","30","en","1413056029","2023-02-07 15:39:45","2023-02-07 16:13:26","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/$20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway, Service 3","GET https://my-retail-store.com/customers/$id=5,9,13,24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$id=167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","WebApp1, MobileApp1, MobileApp2, MainService","DELETE https://my-grocery.com/products?id=12,16,27,35","","","","","","","","","","","","","4","Both","Student","","Beginner (2)","Intermediate (3)","Intermediate (3)","","2030.62","","","","69.13","58.87","830.67","75.15","169.74","240.86","86.88","63.37","119.64","48.77","98.35","115.26","","","","","","","","","","","","","","","18.84","7.31","5.95","16.58","","5.25"
+"64","2023-02-07 16:04:08","30","en","352206419","2023-02-07 15:49:28","2023-02-07 16:04:08","1","You used invalid authentication credentials to access the resource.","8","GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in ascending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/[5,9,13,24] would be best.
+If not possible replace $id with above numbers ","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+attendes: response.attendes,
+status: response.status
+}
+
+ ","The products are sorted in ascending order regarding the shipping costs.","All orange clients.
+Maybe blue clients also, depends on the usage","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","3","Both","Software Engineer","","Advanced (4)","Intermediate (3)","Advanced (4)","","890.27","","","","50.56","44.69","105.71","119.87","73.47","121.72","41.58","21.93","138.56","29.03","66.74","35.08","","","","","","","","","","","","","","","7.25","14.68","4.96","10.5","","3.94"
+"65","2023-02-07 18:31:51","30","en","782585901","2023-02-07 18:01:07","2023-02-07 18:31:51","1","Your user does not have the necessary privileges for this resource.","8","const student = GET Https://my-university.org:8080/students/$id?fields=studentName , birthday , postalCode
+
+Mir fehlt jetzt die Info, wo in der Syntax die Id 20 angegeben wird, damit die Anfrage auch das korrekte Ergebnis liefert. ","The videos are sorted in descending order regarding the published date.","Eigentlich sollte es Reichen, den API-Gateway anzupassen ","Fehlt mir wieder die Info, wie ich die ID korrekt angebe.
+
+GET https://my-retail-store.com/customers/id=5
+
+Analog dann mit id=9, 13 und 24
+
+Aber die Syntax ist leider nur geraten.","The 'birthday' field contained invalid input.","2","const Response =GET https://my-calendar.io:8080/entry's/id=167 const entry = {
+title : response.title ,
+attendees : response: attendees ,
+status : response:status }","The products are sorted in ascending order regarding the shipping costs.","Web App 1 , Mobile App 1 , Mobile App 2","DELETE https://my-grocery.com/products/12 , 16 , 27 ,35","","","","","","","","","","","","","35","Industry","Other","Supporter","Beginner (2)","Advanced (4)","Beginner (2)","","1852.05","","","","37.41","68.12","538.66","66.15","73.59","237.26","60.27","33.97","365.22","64.78","97.51","107.12","","","","","","","","","","","","","","","26.81","17.47","23.23","27.58","","6.9"
+"66","2023-02-07 18:35:10","30","en","203824833","2023-02-07 18:16:29","2023-02-07 18:35:10","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/20
+const student = {
+  ""studentName: ""Peter"",
+  ""birthday"" =""1999-12-01"",
+  ""postalCode""=8888,
+}","The videos are sorted in descending order regarding the published date.","Client 1 -> Service_1, Service_2, Service_4
+Client 2 -> Service_1, Service_2, Service_4
+Client 3 -> Service_1, Service_2, Service_4","GET https://my-retail-store.com/customers/$5,$9,$13,$24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/$167
+fields=fieldName1,fieldName2,...","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$12,$16,$27,$35","1","Academia","Student","","Novice (1)","Novice (1)","Novice (1)","","1128.97","","","","","","","","","","","","","","","","","53.05","30.28","299.68","81.42","189.03","92.47","39.53","31.19","74.52","59.96","70.55","43.75","","32.06","5.07","4.94","16.54","","4.93"
+"67","","1","en","319226292","2023-02-07 18:38:23","2023-02-07 18:38:23","1","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"68","","2","en","409681582","2023-02-08 06:23:42","2023-02-08 06:23:58","1","The request took too long to complete.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","16.46","","","","16.46","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"69","","3","en","1576008015","2023-02-08 06:29:59","2023-02-08 06:30:36","1","The request took too long to complete.","4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","37.56","","","","5.21","32.35","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"70","2023-02-08 08:19:23","30","en","776678317","2023-02-08 08:01:56","2023-02-08 08:19:23","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20","The videos are sorted in descending order regarding the published date.","API Gateway","const customer1 = GET https://my-retail-store.com/customers/5
+const customer2 = GET https://my-retail-store.com/customers/9
+const customer3 = GET https://my-retail-store.com/customers/13
+const customer4 = GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","2","Academia","Student","","Intermediate (3)","Intermediate (3)","Intermediate (3)","","1055.71","","","","51.07","60.83","283.24","92.87","54.05","102.65","60.82","26.52","115.13","78.42","42.36","32.77","","","","","","","","","","","","","","","12.81","10.42","4.55","23.22","","3.98"
+"71","2023-02-08 11:57:09","30","en","978189364","2023-02-08 11:40:41","2023-02-08 11:57:09","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway, Service 3","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","3","Industry","Software Engineer","","Advanced (4)","Advanced (4)","Advanced (4)","","995.47","","","","41.84","88.21","149.34","79.14","65.23","82.03","70.45","40.55","195.51","36.17","60.73","44.88","","","","","","","","","","","","","","","12.13","2.94","7.2","13.64","","5.48"
+"72","2023-02-08 11:53:11","30","en","797949329","2023-02-08 11:40:57","2023-02-08 11:53:11","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName = response.studentName,
+  birthday = response.birthday,
+  postalcode = response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Service 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/167?fields=title,attendees,status,","The products are sorted in ascending order regarding the shipping costs.","Main Service, API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","2","Both","Student","","Intermediate (3)","Intermediate (3)","Beginner (2)","","743.17","","","","","","","","","","","","","","","","","50.4","25.29","140.46","47.08","62.36","98.02","45.66","13.77","62.82","53.7","52.61","42.55","","18.35","5.81","6.75","13.88","","3.66"
+"73","2023-02-08 12:18:22","30","en","303819794","2023-02-08 12:01:57","2023-02-08 12:18:22","1","You used invalid authentication credentials to access the resource.","4","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","const customer5 = GET https://my-retail-store.com/customers/5
+const customer9 = GET https://my-retail-store.com/customers/9
+const customer13 = GET https://my-retail-store.com/customers/13
+const customer24 = GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App1, Mobile App2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","14","Academia","Researcher","","Intermediate (3)","Advanced (4)","Beginner (2)","","994.44","","","","63.7","75.63","135.84","73.66","81.44","108.24","58.69","44.87","110.38","74.91","70.93","45.14","","","","","","","","","","","","","","","15.21","4.49","7.05","17.41","","6.85"
+"74","","4","en","376330258","2023-02-08 12:07:05","2023-02-08 12:09:25","1","You used invalid authentication credentials to access the resource.","8","https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","141.72","","","","33.61","45.24","62.87","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"75","","21","en","1424965344","2023-02-08 12:11:08","2023-02-08 12:23:49","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/$id
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+} ","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/$id5,$id9,$id13,$id24","The 'birthday' field contained invalid input.","2","","","","","","","","","","","","","765.59","","","","","","","","","","","","","","","","","47.28","122.37","168.72","64.48","176.87","68.66","83.85","33.36","","","","","","","","","","",""
+"76","2023-02-08 14:46:11","30","en","94692543","2023-02-08 14:35:01","2023-02-08 14:46:11","1","Your user does not have the necessary privileges for this resource.","8","GET https://my-university.org:8080/students/20","The videos are sorted in ascending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","","","","","","","","","","","","","8","Industry","Software Architect","","Advanced (4)","Advanced (4)","Advanced (4)","","678.52","","","","19.06","30.81","103.17","53.75","50.72","75.66","63.58","21.51","108.01","40.22","35.18","40.44","","","","","","","","","","","","","","","5.21","4.6","7.91","15.87","","2.82"
+"77","2023-02-08 15:04:55","30","en","1237318848","2023-02-08 14:50:52","2023-02-08 15:04:55","2","","","","","","","","","","","","","The resource could not be found.","4","not a developer :D","The videos are sorted in ascending order regarding the published date.","all","?","The 'birthday' field contained invalid input.","2","?","The products are sorted in descending order regarding the title.","?","?","20","Industry","Other","Enterprise Architect","Novice (1)","Novice (1)","Novice (1)","","850.42","","","","","","","","","","","","","","","","","15.09","36.04","325.27","44.8","68.58","49.72","33.26","24.63","33.09","37.02","139.59","10.27","","6.36","6.73","9.84","6.49","","3.64"
+"78","","17","en","321333624","2023-02-08 15:26:55","2023-02-08 15:39:18","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = https://my-university.org:8080/students/20
+const student = {
+studentName: response.studentName,
+birthday: response.birthday,
+postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","","","","","","","","","","","","","","","","","745.11","","","","","","","","","","","","","","","","","461.4","26.36","199.95","57.4","","","","","","","","","","","","","","",""
+"79","2023-02-08 16:00:49","30","en","1549982517","2023-02-08 15:42:05","2023-02-08 16:00:49","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3, API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+title, 
+attendees, status}","The products are sorted in ascending order regarding the shipping costs.","Web App1, Mobile App1, Mobile App2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","3","Both","Researcher","","Intermediate (3)","Intermediate (3)","Intermediate (3)","","1130.49","","","","58.04","69.39","142.12","93.18","111.53","89.51","99.84","48.37","168.63","53.69","78.08","37.68","","","","","","","","","","","","","","","28.57","13.31","12.22","21.31","","5.02"
+"80","2023-02-08 16:17:06","30","en","1580789103","2023-02-08 15:57:58","2023-02-08 16:17:06","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","const id = 20,
+const response = GET `https://my-university.org:8080/students/${id}`,
+
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+},","The videos are sorted in descending order regarding the published date.","Client 1, 2 and 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title, attendees, status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/12","5","Industry","Software Engineer","","Intermediate (3)","Intermediate (3)","Intermediate (3)","","1150.24","","","","","","","","","","","","","","","","","47.85","44.51","106.16","26.23","622.33","54.97","38.17","41.28","44.66","56.71","21.51","20.88","","7.15","2.95","4.62","8.3","","1.96"
+"81","2023-02-08 16:25:41","30","en","453345167","2023-02-08 16:04:45","2023-02-08 16:25:41","1","You used invalid authentication credentials to access the resource.","4","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App1, Mobile App 2, Mobile App 1","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","20","Both","Software Architect","","Advanced (4)","Advanced (4)","Advanced (4)","","1265.29","","","","28.54","127.26","222.35","128.85","95.62","59.5","109.92","71.17","93.73","100.2","52.48","44.86","","","","","","","","","","","","","","","24.98","11.21","7.56","21.15","","65.91"
+"82","","13","en","30852735","2023-02-08 16:43:46","2023-02-08 16:43:46","2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","0","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"84","2023-02-09 07:52:31","30","en","1549640045","2023-02-09 07:47:31","2023-02-09 07:52:31","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","Dunno","The videos are sorted in descending order regarding the published date.","Dunno","Dunno","The 'birthday' field contained invalid input.","2","Dunno","The products are sorted in descending order regarding the title.","Dunno","Dunno","1","Industry","Other","Dunno","Novice (1)","Novice (1)","Novice (1)","","307.8","","","","","","","","","","","","","","","","","45.2","37.3","24.15","52.14","20.14","5.69","34.42","28.48","4.89","3.73","4.08","5.71","","4.97","9.1","17.3","8.38","","2.12"
+"85","","3","en","2118449586","2023-02-09 08:40:47","2023-02-09 08:41:51","1","You used invalid authentication credentials to access the resource.","8","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","64.77","","","","18.72","46.05","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"86","2023-02-09 09:09:16","30","en","609894220","2023-02-09 08:59:49","2023-02-09 09:09:16","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","Service 3, API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Main Service, Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","6","Industry","Software Engineer","","Advanced (4)","Beginner (2)","Beginner (2)","","574.99","","","","6.97","26.92","23.03","55.54","51.54","62.75","87.55","46.28","102.09","21.6","39.17","18.02","","","","","","","","","","","","","","","6.78","3.95","7.26","11.49","","4.05"
+"87","2023-02-09 10:32:56","30","en","956164739","2023-02-09 10:15:40","2023-02-09 10:32:56","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","I would try whether it is possible to do:
+GET https://my-retail-store.com/customers/5,9,13,24
+
+If this is not possible, I would send 4 requests:
+GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","7","Both","Software Engineer","","Advanced (4)","Advanced (4)","Advanced (4)","","1045.36","","","","19.47","44.71","62.71","331.6","44.64","189.46","34.1","19.7","82.57","101.4","52.45","24.76","","","","","","","","","","","","","","","12.96","4.16","7.86","10.13","","2.68"
+"89","2023-02-09 10:44:53","30","en","2111331853","2023-02-09 10:19:54","2023-02-09 10:44:53","1","You used invalid authentication credentials to access the resource.","4","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway, Service 3","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App1, Mobile App2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","10","Industry","Software Architect","","Advanced (4)","Advanced (4)","Intermediate (3)","","1506.76","","","","51.53","31.39","110.46","80.25","70.51","51.92","76.08","47.83","119.72","717.93","58.66","44.26","","","","","","","","","","","","","","","16.13","6.1","6.44","13.12","","4.43"
+"90","2023-02-09 10:42:48","30","en","395024524","2023-02-09 10:31:20","2023-02-09 10:42:48","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway, Service 3","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2, Main Service","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","13","Industry","Software Architect","","Advanced (4)","Advanced (4)","Advanced (4)","","697.85","","","","31.02","57.87","86.17","77.9","63.96","63.12","59.33","33.77","96.64","26.65","34.84","24.39","","","","","","","","","","","","","","","8.93","5.8","14.44","9.45","","3.57"
+"91","","3","en","322362816","2023-02-09 12:28:59","2023-02-09 12:29:49","1","You used invalid authentication credentials to access the resource.","8","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","51.72","","","","22.81","28.91","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"92","2023-02-09 12:45:29","30","en","1207216327","2023-02-09 12:37:15","2023-02-09 12:45:29","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode
+","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24
+","The 'birthday' field contained invalid input.","2","I don't understand this :/","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","10","Industry","Software Engineer","","Advanced (4)","Expert (5)","Advanced (4)","","502.9","","","","35.53","28.71","58.56","47.3","34.54","34","43.65","20.48","64.96","32.06","27.61","22.87","","","","","","","","","","","","","","","7.47","4.99","5.28","10.88","","24.01"
+"94","2023-02-09 13:00:07","30","en","2072594571","2023-02-09 12:49:34","2023-02-09 13:00:07","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode,...","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status,
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","0","Academia","Student","","Beginner (2)","Advanced (4)","Beginner (2)","","643.09","","","","25.99","34.06","94.04","73.96","44.32","39.52","38.56","23.57","118.91","20.35","45.38","25.87","","","","","","","","","","","","","","","17.89","4.94","5.54","25.67","","4.52"
+"95","2023-02-09 13:05:25","30","en","1066089158","2023-02-09 12:55:19","2023-02-09 13:05:25","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3, Service 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway, MainService","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","9","Industry","Software Engineer","","Expert (5)","Expert (5)","Advanced (4)","","613.2","","","","","","","","","","","","","","","","","28.92","32.62","106.01","65.55","68.73","45.34","33.31","26.9","50.84","49.07","39.49","27.08","","9.35","8.25","9.23","9","","3.51"
+"96","2023-02-09 13:19:06","30","en","1052223994","2023-02-09 13:02:24","2023-02-09 13:19:06","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/$20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","Service 3, API Gateway","const c5 = GET https://my-retail-store.com/customers/$5
+const c9 = GET https://my-retail-store.com/customers/$9
+const c13 = GET https://my-retail-store.com/customers/$13
+const c24 = GET https://my-retail-store.com/customers/$24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$12,$16,$27,$35","","","","","","","","","","","","","1","Academia","Student","","Intermediate (3)","Beginner (2)","Beginner (2)","","1009.21","","","","34.12","35.8","127.21","112.18","91.34","99.8","82.57","38.3","130.27","51.24","71.41","51.2","","","","","","","","","","","","","","","15.85","5.99","12.42","24.24","","25.27"
+"97","2023-02-09 13:23:03","30","en","1231598223","2023-02-09 13:11:04","2023-02-09 13:23:03","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode,
+}","The videos are sorted in descending order regarding the published date.","Service  3, Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","MainService, API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","1","Academia","Student","","Beginner (2)","Beginner (2)","Novice (1)","","729.14","","","","","","","","","","","","","","","","","47.43","27.43","168.11","50.33","73.63","46.65","33.18","29.86","100.84","50.49","22.44","41.78","","8.36","6.25","3.68","9.95","","8.73"
+"98","","15","en","914093457","2023-02-09 13:25:13","2023-02-09 13:29:02","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","230.43","","","","","","","","","","","","","","","","","156.64","73.79","","","","","","","","","","","","","","","","",""
+"99","","14","en","1347731890","2023-02-09 14:17:45","2023-02-09 14:18:07","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","","","","","","","","","","","","","","","","","","","","22.37","","","","","","","","","","","","","","","","","22.37","","","","","","","","","","","","","","","","","",""
+"100","","15","en","212672746","2023-02-09 14:46:11","2023-02-09 14:48:01","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","111.27","","","","","","","","","","","","","","","","","29.3","81.97","","","","","","","","","","","","","","","","",""
+"101","","2","en","277387831","2023-02-09 14:49:08","2023-02-09 14:51:31","1","You used invalid authentication credentials to access the resource.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","144.03","","","","48.1","95.93","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"102","","6","en","1443476085","2023-02-09 15:05:16","2023-02-09 15:09:56","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","","","","","","","","","","","","","","","","","","","","","","","","","","","","283.79","","","","19.88","25.64","42.96","138.39","56.92","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"103","2023-02-09 15:48:09","30","en","2068437443","2023-02-09 15:36:00","2023-02-09 15:48:09","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/$id
+const student = {
+  studentName: response.attribute1,
+birthday: response.attribute5,
+postalCode: response.attribute7,
+  WHERE StudentID=""20""
+}","The videos are sorted in descending order regarding the published date.","DNS Update","GET https://my-retail-store.com/customers/$5,$9,$13,$24,","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/$id?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/$12,$16,$27,$35","4","Academia","Researcher","","Novice (1)","Novice (1)","Novice (1)","","737.18","","","","","","","","","","","","","","","","","37.09","55.32","206.55","31.84","65.3","88.26","35.56","25.11","49.36","49.97","28.61","27.95","","11.28","4.5","7.04","7.44","","6"
+"105","2023-02-09 17:20:41","30","en","635924365","2023-02-09 17:08:55","2023-02-09 17:20:41","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","11","Academia","Researcher","","Advanced (4)","Expert (5)","Advanced (4)","","714.51","","","","23.16","50.89","91.47","67.86","57.14","40.03","81.43","65.05","87.77","41.42","25.65","41.54","","","","","","","","","","","","","","","14.64","4.65","5.81","9.54","","6.46"
+"106","","3","en","51822908","2023-02-09 17:11:03","2023-02-09 17:13:13","1","You used invalid authentication credentials to access the resource.","4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","131.19","","","","44.49","86.7","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"107","","3","en","1900935301","2023-02-09 18:05:28","2023-02-09 18:06:48","1","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","81.07","","","","31.51","49.56","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"108","2023-02-09 19:10:16","30","en","1352209332","2023-02-09 18:58:05","2023-02-09 19:10:16","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode
+
+Handle 404
+Only process if status code is 200 (OK). Processing likely will need to check if content type is json as well and is hopefully valid (schema check, content check)","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  status: response.status,
+ attendess : response.attendees
+}
+
+// Are you seriously asking how to map a response in a (for me) unknown language syntax?","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","15","Industry","Manager","","Advanced (4)","Advanced (4)","Advanced (4)","","739.41","","","","28.03","34.31","170.71","53.99","28.63","66.02","42.95","28.13","130.33","43.95","33.47","36.56","","","","","","","","","","","","","","","12.95","4.78","8.17","12.57","","3.86"
+"109","2023-02-09 22:13:51","30","en","1117849737","2023-02-09 21:46:05","2023-02-09 22:13:51","1","You used invalid authentication credentials to access the resource.","4","const student = GET https://my-university.org:8080/students/$20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","CONST cust5 = GET https://my-retail-store.com/customers/$5
+CONST cust9 = GET https://my-retail-store.com/customers/$9
+CONST cust13 = GET https://my-retail-store.com/customers/$13
+CONST cust24 = GET https://my-retail-store.com/customers/$24","The 'birthday' field was not filled out.","2","const response = GET https://my-calendar.io:8080/entries/$167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status,
+}
+
+ ","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$12,$16,$27,$35","","","","","","","","","","","","","0","Academia","Student","","Intermediate (3)","Beginner (2)","Beginner (2)","","1674.5","","","","139.33","167.71","170.81","151.98","392.44","83.95","101.17","61.43","160.04","42.87","82.32","53.48","","","","","","","","","","","","","","","17.02","5.89","4.05","36.55","","3.46"
+"110","","3","en","545182609","2023-02-10 02:18:15","2023-02-10 02:20:30","1","You used invalid authentication credentials to access the resource.","4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","136.73","","","","28.76","64.71","43.26","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"111","","21","en","1535635014","2023-02-10 05:50:21","2023-02-10 05:57:11","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/$id
+const student = {
+  studentName: response.attribute1,
+ bDay: response.attribute5,
+ PC: response.attribute7,
+  
+}","The videos are sorted in descending order regarding the published date.","Client 1, 2, 3","GET https://my-retail-store.com/customers/$5,$9,&13,&24 ggf. Url codiert","The 'birthday' field contained invalid input.","2","","","","","","","","","","","","","414.63","","","","","","","","","","","","","","","","","20.54","26.87","100.54","35.58","93.48","75.63","29.66","32.33","","","","","","","","","","",""
+"112","2023-02-10 07:26:01","30","en","700308000","2023-02-10 07:12:36","2023-02-10 07:26:01","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response. studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode,
+}","The videos are sorted in descending order regarding the published date.","Service 3, Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","Web App 1,Mobile App 1,Mobile App 2,Main Service,API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","3","Industry","Software Engineer","","Beginner (2)","Intermediate (3)","Beginner (2)","","813.03","","","","","","","","","","","","","","","","","38.95","43.98","128.34","25.31","85.16","49.33","34.43","16.02","72.61","35.33","63.5","43.22","","12.92","6.6","6.58","9.21","","141.54"
+"113","","4","en","953055687","2023-02-10 08:19:06","2023-02-10 08:22:52","1","You used invalid authentication credentials to access the resource.","4","const student = GET https://my-university.org:8080/students/$id20fields=studentName,birthday,postalCode","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","228.41","","","","30.56","76.92","120.93","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"114","2023-02-10 08:41:44","30","en","249614093","2023-02-10 08:20:47","2023-02-10 08:41:44","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway,Service 3","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Main Service,Web App 1,Mobile App 1,Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","6","Both","Software Engineer","","Intermediate (3)","Advanced (4)","Beginner (2)","","1265.77","","","","65.67","61.95","140.63","95.75","88.31","96.18","54.7","103.38","137.59","80.22","91.86","45.53","","","","","","","","","","","","","","","19.59","6.11","11.4","115.29","","51.61"
+"115","2023-02-10 08:51:31","30","en","1058581305","2023-02-10 08:38:41","2023-02-10 08:51:31","1","Your user does not have the necessary privileges for this resource.","4","const student = GET https://my-university.org:8080/students/$20?fields=fieldName1,fieldName2,...","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/14","The 'name' field contained forbidden characters.","2","const response = GET https://my-calendar.io:8080/entries/$id
+const entry = {
+  title: response.title,
+  attendees: response.attendees
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","6","Both","Software Engineer","","Novice (1)","Intermediate (3)","Novice (1)","","776.82","","","","34.65","46.14","77.32","94.82","91.45","49.65","46.56","27.02","90.09","67.47","53.1","33.09","","","","","","","","","","","","","","","18.66","8.31","7.96","24.06","","6.47"
+"116","2023-02-10 09:11:39","30","en","878644429","2023-02-10 09:00:08","2023-02-10 09:11:39","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/$20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","Client1, Client2, Client3, API Gateway","GET https://my-retail-store.com/customers/$5
+GET https://my-retail-store.com/customers/$9
+GET https://my-retail-store.com/customers/$13
+GET https://my-retail-store.com/customers/$24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/$12,$16,$27,$35","","","","","","","","","","","","","0","Academia","Student","","Novice (1)","Novice (1)","Novice (1)","","697.41","","","","33.62","48.33","139.27","50.59","56.33","64.84","37.41","23.13","86.12","41.11","43.27","38.05","","","","","","","","","","","","","","","8.83","6.18","5.31","7.84","","7.18"
+"117","2023-02-10 12:45:44","30","en","481481596","2023-02-10 12:35:36","2023-02-10 12:45:44","1","You used invalid authentication credentials to access the resource.","4","const student  = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode
+// obtain follow-up options by sending to relevant endpoint","The videos are sorted in descending order regarding the published date.","API Gateway","let customers = [],
+customers.append(GET https://my-retail-store.com/customers/5),
+customers.append(GET https://my-retail-store.com/customers/9),
+customers.append(GET https://my-retail-store.com/customers/13),
+customers.append(GET https://my-retail-store.com/customers/24),","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","11","Both","Student","","Advanced (4)","Advanced (4)","Advanced (4)","","617.87","","","","32.84","25.63","139.84","39.26","27.35","65.97","28.31","27.94","74.33","49.78","29.78","41.29","","","","","","","","","","","","","","","11.02","6.31","4.74","9.87","","3.61"
+"118","","15","en","1913454348","2023-02-10 17:18:48","2023-02-10 17:23:51","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","","","","","","","","","","","","","","","","","","","282.05","","","","","","","","","","","","","","","","","200.77","81.28","","","","","","","","","","","","","","","","",""
+"119","2023-02-10 18:46:40","30","en","1299084605","2023-02-10 18:22:38","2023-02-10 18:46:40","1","Your user does not have the necessary privileges for this resource.","8","GET https://my-university.org:8080/students/20/studentName,birthday/postalCode","The videos are sorted in descending order regarding the published date.","Service 3, API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  satus: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","MainService, Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","1","Academia","Student","","Intermediate (3)","Beginner (2)","Beginner (2)","","1450.16","","","","28.79","70.4","126.08","111.04","107.75","130.56","172.26","43.02","182.96","59.64","53.76","31.44","","","","","","","","","","","","","","","19.02","11.78","8.37","27.84","","265.45"
+"120","","15","en","138194361","2023-02-10 20:25:37","2023-02-10 20:26:38","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","62.27","","","","","","","","","","","","","","","","","33.75","28.52","","","","","","","","","","","","","","","","",""
+"122","","29","en","","2023-02-12 13:57:00","2023-02-12 14:08:00","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13
+GET https://my-retail-store.com/customers/24","The 'birthday' field was not filled out.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+attendees: response.attendees,
+status: response.status
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","6","Academia","Student","","Expert (5)","Advanced (4)","Beginner (2)","","673.73","","","","49.39","48.29","76.38","76.19","55.51","49.39","41.7","51.98","90.97","24.39","38.73","21.86","","","","","","","","","","","","","","","11.8","5.01","10.76","21.38","",""
+"123","2023-02-13 08:14:59","30","en","663047734","2023-02-13 07:57:06","2023-02-13 08:14:59","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+} ","The videos are sorted in descending order regarding the published date.","Client,Service 3","GET https://my-retail-store.com/customers/$5,$9,$13,$24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/$167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway, Main Service","DELETE https://my-grocery.com/products/$12
+DELETE https://my-grocery.com/products/$16
+DELETE https://my-grocery.com/products/$27
+DELETE https://my-grocery.com/products/$35","2","Industry","Software Engineer","","Novice (1)","Novice (1)","Novice (1)",":)","1081.18","","","","","","","","","","","","","","","","","47.56","56.04","244.72","100.61","92.27","169.24","73.19","46.74","75.2","55.68","45.24","30.4","","12.68","4.78","8.15","7.76","","10.92"
+"124","","2","en","1359992356","2023-02-13 08:23:07","2023-02-13 08:23:51","1","You used invalid authentication credentials to access the resource.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","44.69","","","","44.69","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"125","2023-02-13 13:23:15","30","en","1204004122","2023-02-13 13:02:34","2023-02-13 13:23:15","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","Service 3 as it will be moved and the API Gateway if it contains the Service via IP and not via - recommended - underlying service lookup, e.g., k8s DNS","GET https://my-retail-store.com/customers?ids=5,9,13,24","The 'name' field contained forbidden characters.","2","const response = GET https://my-calendar.io:8080/entries/167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status,
+}","The products are sorted in ascending order regarding the shipping costs.","MainService,WebApp1,MobileApp1,MobileApp2 - assuming no LB or DNS Based Service lookup - which would be state of the art","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","30","Academia","Researcher","","Beginner (2)","Expert (5)","Advanced (4)","","1249.98","","","","76.99","48.97","113.11","94.77","95.68","323.39","61.81","29.98","97.64","65.3","62.19","52.72","","","","","","","","","","","","","","","20.09","3.45","6.31","17.17","","80.41"
+"126","2023-02-13 20:35:04","30","en","129870005","2023-02-13 20:18:56","2023-02-13 20:35:04","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","https://my-university.org:8080/students/20","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3","https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","https://my-calendar.io:8080/entries/167?title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","https://my-grocery.com/products/12
+https://my-grocery.com/products/16
+https://my-grocery.com/products/27
+https://my-grocery.com/products/35","20","Industry","Software Engineer","","Beginner (2)","Beginner (2)","Novice (1)","","976.03","","","","","","","","","","","","","","","","","43.84","53.57","161.92","59.2","95.66","78.12","45.79","52.13","98.13","84.5","40.06","85.77","","22.53","9.83","11.02","27.28","","6.68"
+"127","2023-02-13 22:18:32","30","en","1331653415","2023-02-13 22:02:36","2023-02-13 22:18:32","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/$id
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+} ","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=titel,status,attendees","The products are sorted in ascending order regarding the shipping costs.","API Gateway, Main Service","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","30","Industry","Software Architect","","Beginner (2)","Beginner (2)","Beginner (2)","","963.21","","","","","","","","","","","","","","","","","50.87","47.76","154.62","98.76","90.74","56.78","41.05","55","98.4","148.01","36.05","31.55","","24.03","4.81","7.02","14.1","","3.66"
+"128","2023-02-14 04:47:38","30","en","329781646","2023-02-14 04:26:01","2023-02-14 04:47:38","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/$id=20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response:postalCode
+} ","The videos are sorted in descending order regarding the published date.","Client 1, Client 2. Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title, attendees, status
+const event {
+   title: entry.title,
+   attendees: entry.attendees,
+   status: entry.status
+}","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","0","Academia","Student","","Beginner (2)","Beginner (2)","Novice (1)","","1305.31","","","","","","","","","","","","","","","","","74.78","38.72","275.16","103.84","83.51","83.16","52.56","40.85","323.33","45.57","26.67","101.43","","16.01","4.03","4.5","27.42","","3.77"
+"130","2023-02-14 12:34:18","30","en","1909120878","2023-02-14 12:08:33","2023-02-14 12:34:18","1","You used invalid authentication credentials to access the resource.","8","const student = GET https://my-university.org:8080/students/$studentID=20","The videos are sorted in descending order regarding the published date.","Service 3","GET https://my-retail-store.com/customers/$id={5, 9, 13, 24}","The 'birthday' field was not filled out.","2","const response = GET https://my-calendar.io:8080/entries/$167
+const entry = {
+  attribute1: response.attribute1,
+  ...
+}","The products are sorted in ascending order regarding the shipping costs.","MainService [Web App1, Mobile App1, Mobile App2]  ","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","8","Academia","Other","Teacher","Beginner (2)","Intermediate (3)","Intermediate (3)","","1532.77","","","","74.12","148.51","381.47","150.33","231.97","63.62","30.82","36.81","74.65","72.45","130.55","77.08","","","","","","","","","","","","","","","15.32","3.38","13.86","16.07","","11.76"
+"132","2023-02-15 08:54:46","30","en","1036861803","2023-02-15 08:45:23","2023-02-15 08:54:46","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","client 1, client 2, client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status
+
+","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","10","Industry","Consultant","","Expert (5)","Expert (5)","Expert (5)","","570.72","","","","","","","","","","","","","","","","","32.42","49.53","150.27","44.45","44.26","36.24","44.44","18.19","32.18","34.87","21.15","22.62","","21.47","4.74","4.76","5.98","","3.15"
+"133","","15","en","222193731","2023-02-15 09:03:19","2023-02-15 09:04:26","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","67.48","","","","","","","","","","","","","","","","","39.46","28.02","","","","","","","","","","","","","","","","",""
+"135","2023-02-15 09:28:20","30","en","1847152093","2023-02-15 09:11:32","2023-02-15 09:28:20","1","Your user does not have the necessary privileges for this resource.","8","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/$id=5,9,13,24","The 'birthday' field contained invalid input.","2","const response = GET https://my-calendar.io:8080/entries/$id=167
+const entry = {
+  title: response.title,
+  attendees: response.attendees,
+  status: response.status,
+}","The products are sorted in ascending order regarding the shipping costs.","Web App 1, Mobile App 1, Mobile App 2","DELETE https://my-grocery.com/products/12,16,27,35","","","","","","","","","","","","","2","Both","Student","","Beginner (2)","Intermediate (3)","Novice (1)","","1014.05","","","","34.27","27.3","183.7","75.41","68.87","114.78","60.04","41.82","115.02","71.45","78.23","67.08","","","","","","","","","","","","","","","22.06","13.14","6.23","30.32","","4.33"
+"136","","3","en","644254008","2023-02-15 09:38:50","2023-02-15 09:40:09","1","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","79.5","","","","40.18","39.32","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"137","","7","en","1246855597","2023-02-15 17:04:59","2023-02-15 17:14:31","1","You used invalid authentication credentials to access the resource.","5","const student = GET https://my-university.org:8080/students/20?fields=studentName,birthday,postalCode","The videos are sorted in descending order regarding the published date.","API Gateway","GET https://my-retail-store.com/customers/5
+GET https://my-retail-store.com/customers/9
+GET https://my-retail-store.com/customers/13","","","","","","","","","","","","","","","","","","","","","","","","","","","575.41","","","","41.94","74.72","144.32","98.53","132.71","83.19","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"139","","15","en","1940785678","2023-02-16 13:10:29","2023-02-16 13:11:56","2","","","","","","","","","","","","","The request took too long to complete.","8","","","","","","","","","","","","","","","","","","","88.48","","","","","","","","","","","","","","","","","27.82","60.66","","","","","","","","","","","","","","","","",""
+"140","2023-02-17 00:23:56","30","en","256897697","2023-02-17 00:02:37","2023-02-17 00:23:56","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/$20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client1, Client2, Client3","GET https://my-retail-store.com/customers/$5,$9,$13,$24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/$167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","WebApp1,MobileApp1,MobileApp2,API Gateway","DELETE https://my-grocery.com/products/$12
+DELETE https://my-grocery.com/products/$16
+DELETE https://my-grocery.com/products/$27
+DELETE https://my-grocery.com/products/$35","6","Academia","Student","","Intermediate (3)","Intermediate (3)","Beginner (2)","","1290.42","","","","","","","","","","","","","","","","","65.67","86.44","228.73","97.35","266.83","109.55","51.1","73.82","83.58","54.83","62.3","40.91","","23.72","5.48","5.31","28.9","","5.9"
+"149","2023-02-17 13:27:45","30","en","316178801","2023-02-17 13:21:40","2023-02-17 13:27:45","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","2","Industry","Software Engineer","","Advanced (4)","Intermediate (3)","Beginner (2)","","373.04","","","","","","","","","","","","","","","","","20.75","39.15","67.98","19.62","22.34","22.05","31.18","12.41","34.54","27.24","15.37","34.15","","6.82","3.59","3.96","10.17","","1.72"
+"151","2023-02-17 14:33:39","30","en","858615282","2023-02-17 14:20:08","2023-02-17 14:33:39","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","const response = GET https://my-university.org:8080/students/20
+if response.status != 200 {
+  throw error,
+}
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode,
+} ","The videos are sorted in descending order regarding the published date.","Client1, Client2, Client3
+(not sure how to understand the question, usually clients would call services by name, which means that the migration only requires the adaptation of e.g. a DNS record but not any changes on the client side...)","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status
+if entry.status != 200 {
+  throw error,
+}","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","12","Industry","Software Engineer","","Expert (5)","Advanced (4)","Advanced (4)","","818.28","","","","","","","","","","","","","","","","","32.66","28.64","137.53","47.08","133.04","37.98","28.35","46.65","75.42","48.45","26.08","32.23","","102.71","6.51","11.65","11.07","","12.23"
+"152","2023-02-19 14:29:13","30","en","592251579","2023-02-19 14:24:03","2023-02-19 14:29:13","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","const response = GET https://my-university.org:8080/students/$id
+const student = {
+ studentName: response.studentName,
+ birthday: response.birthday,
+ postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","4","Industry","DevOps Engineer","","Advanced (4)","Advanced (4)","Intermediate (3)","","319.37","","","","","","","","","","","","","","","","","25.3","18.52","64.03","31.98","16.85","22.02","24.78","15.83","15.7","18.14","11.87","22.76","","5.91","2.7","7.05","11.52","","4.41"
+"153","2023-02-19 18:19:23","30","en","2017534659","2023-02-19 18:11:49","2023-02-19 18:19:23","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client 1
+Client 2
+Client 3","GET https://my-retail-store.com/customers/5/9/13/24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12,16,27,35","1","Industry","Software Engineer","","Advanced (4)","Advanced (4)","Beginner (2)","","462.33","","","","","","","","","","","","","","","","","49.58","9.45","38.07","54.03","15.15","62.38","67.6","21.86","22.35","66.99","12.86","19.21","","3.93","3.64","3.75","8.45","","3.03"
+"154","","15","en","586434785","2023-02-19 20:37:16","2023-02-19 20:37:45","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","","","","","","","","","","","","","","","","","","","29.97","","","","","","","","","","","","","","","","","11.88","18.09","","","","","","","","","","","","","","","","",""
+"155","2023-02-20 06:34:39","30","en","386694335","2023-02-20 06:20:52","2023-02-20 06:34:39","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+  birthday: responde.birthday,
+  postalCode: response.postalCode
+}","The videos are sorted in descending order regarding the published date.","Client 1,Client 2,Client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","10","Industry","Consultant","","Expert (5)","Advanced (4)","Intermediate (3)","","834.46","","","","","","","","","","","","","","","","","20.58","34.35","174.78","62.59","49.4","201.34","34.1","38.15","65.51","48.8","22.96","30.29","","22.18","3.53","4.03","17.19","","4.68"
+"157","","29","en","1500081982","2023-02-20 09:47:00","2023-02-20 10:03:17","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const response = GET https://my-university.org:8080/students/$20
+const student = {
+  studentName: response.studentName,
+  birthday: response.birthday,
+  postalCode: response.postalCode
+} ","The videos are sorted in descending order regarding the published date.","Client 1, Client 2, Client 3","GET https://my-retail-store.com/customers/$5,$9,$13,$24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/$167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/$12
+DELETE https://my-grocery.com/products/$16
+DELETE https://my-grocery.com/products/$27
+DELETE https://my-grocery.com/products/$35","3","Academia","Student","","Intermediate (3)","Beginner (2)","Novice (1)","","984.91","","","","","","","","","","","","","","","","","43.22","60.61","192.3","159.68","70.76","83.14","26.82","36.3","91.93","43.15","39.47","98.63","","13.82","5.18","4.1","15.8","",""
+"158","2023-02-20 11:04:49","30","en","1390092528","2023-02-20 10:57:05","2023-02-20 11:04:49","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","4","?","The videos are sorted in descending order regarding the published date.","Clients 1-3, Service 3","GET https://my-retail-store.com/customers/5/9/13/24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","MainService, API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","3","Industry","Software Engineer","","Advanced (4)","Advanced (4)","Intermediate (3)","","471.96","","","","","","","","","","","","","","","","","14.79","20.44","31.76","21.25","17.04","10.89","42.05","8.17","111.44","59.46","42.64","62.93","","6.12","2.93","5.19","12.39","","2.47"
+"159","","15","en","762507067","2023-02-21 08:15:18","2023-02-21 08:16:27","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","","","","","","","","","","","","","","","","","","","69.59","","","","","","","","","","","","","","","","","20.4","49.19","","","","","","","","","","","","","","","","",""
+"160","","15","en","948027320","2023-02-21 12:28:46","2023-02-21 12:29:45","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","8","","","","","","","","","","","","","","","","","","","60.48","","","","","","","","","","","","","","","","","36.63","23.85","","","","","","","","","","","","","","","","",""
+"161","2023-02-21 20:39:24","30","en","803382074","2023-02-21 20:30:41","2023-02-21 20:39:24","2","","","","","","","","","","","","","Your user does not have the necessary privileges for this resource.","4","const response = GET https://my-university.org:8080/students/20
+const student = {
+  studentName: response.studentName,
+birthday:response.birthday
+postalCode:response.postalCode
+}
+
+","The videos are sorted in descending order regarding the published date.","Client 1, client 2, client 3","GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status","The products are sorted in ascending order regarding the shipping costs.","API Gateway","DELETE https://my-grocery.com/products/12
+DELETE https://my-grocery.com/products/16
+DELETE https://my-grocery.com/products/27
+DELETE https://my-grocery.com/products/35","7","Industry","Software Engineer","","Advanced (4)","Intermediate (3)","Beginner (2)","","529.88","","","","","","","","","","","","","","","","","33.78","33.31","119.52","28.51","36.08","37.44","22.63","34.23","40","37.22","20.17","26.06","","17.28","6.55","7.4","23.75","","5.95"
+"162","2023-02-22 06:00:57","30","en","506029854","2023-02-22 05:41:03","2023-02-22 06:00:57","2","","","","","","","","","","","","","You used invalid authentication credentials to access the resource.","8","const { studentName, birthday, postalCode } = GET https://my-university.org:8080/students/20
+const student = { studentName, birthday, postalCode }
+
+// studentName, birthday, and postalCode are attributes already in the original student object. It would not make sense to do another API call
+// in order to reduce traffic and only have the required attributes in the response, I would need to know more about the API
+","The videos are sorted in descending order regarding the published date.","// I'm guessing here
+Client 1, Client 2, Client 3, Service 3","const customers = GET https://my-retail-store.com/customers/5,9,13,24","The 'birthday' field contained invalid input.","2","const entry = GET https://my-calendar.io:8080/entries/167?fields=title,attendees,status
+
+","The products are sorted in ascending order regarding the shipping costs.","API Gateway","// since in previous questions comma separation was a thing...
+const response = DELETE https://my-grocery.com/products/12,16,27,35","5","Industry","Software Engineer","","Novice (1)","Intermediate (3)","Novice (1)","","1202.4","","","","","","","","","","","","","","","","","29.4","30.65","369.39","70.21","107.37","90.68","42.34","34.83","93.38","54.27","75.1","78.73","","32.28","6.89","14.39","26.82","","45.67"
+
