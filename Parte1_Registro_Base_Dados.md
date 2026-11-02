@@ -39,7 +39,7 @@ Os arquivos originais foram salvos intactos na pasta `dados/brutos/` do reposit�
 | `experiment-artifacts.zip` | 732 KB | Pacote original completo baixado do Zenodo (MD5: `43486d360c80146e1080a91f336e48f8`). |
 | `results-01-raw.csv` | 95 KB | Dados brutos originais exportados da plataforma do experimento (LimeSurvey). |
 | `results-02-cleaned.csv` | 48 KB | Dados intermediários filtrados pelo script de pré-processamento original. |
-| `results-03-final.csv` | 16 KB | Base validada dos 66 participantes que concluíram o experimento, contendo acerto (`0`/`1`), tempos em segundos e dados demográficos. |
+| `results-03-final.csv` | 16 KB | Base final validada com 65 participantes utilizados na análise, contendo acerto (`0`/`1`), tempos em segundos e dados demográficos. O participante de ID `54` foi removido na etapa final por tempos acima de 400 s, conforme o notebook oficial. |
 | `pattern-tasks.md` | 11 KB | Enunciados e gabaritos das 12 tarefas aplicadas no experimento controlado. |
 | `LICENSE.md` | 19 KB | Licença oficial CC BY 4.0 incluída pelos autores. |
 
@@ -50,5 +50,5 @@ Os arquivos originais foram salvos intactos na pasta `dados/brutos/` do reposit�
 * **Proveniência:** Pacote de replicação oficial depositado no Zenodo pelos próprios autores do experimento controlado, com DOI fixo e artigo publicado no ICPC 2024.
 * **Documentação:** Acompanha descrição completa das tarefas (`pattern-tasks.md`) e scripts comentados explicando cada coluna e cálculo das métricas.
 * **Licença:** Licença aberta CC BY 4.0 declarada formalmente no Zenodo e no arquivo `LICENSE.md`.
-* **Tamanho:** Contém respostas completas de **66 participantes** divididos aleatoriamente em 2 grupos/sequências (34 no Grupo 1 e 32 no Grupo 2), realizando 12 tarefas (totalizando 792 observações de tarefas), garantindo excelente poder estatístico.
+* **Tamanho:** A versão intermediária contém 66 participantes completos. A versão final utilizada pela equipe contém **65 participantes**, divididos aleatoriamente em 2 grupos/sequências (35 no Grupo 1 e 30 no Grupo 2), após a remoção do participante de ID `54` por tempos acima de 400 s. O desenho prevê 12 tarefas por participante; a quantidade efetivamente analisável deve ser informada junto com os valores ausentes e filtros aplicados.
 * **Variáveis e Medição:** Contém claramente a Variável Independente (presença ou ausência do padrão de API de microsserviços: `P` vs. `N`) e as Variáveis Dependentes medidas automaticamente pela ferramenta LimeSurvey (tempo gasto em segundos em cada tarefa e corretude da resposta `0` ou `1`, além da métrica composta *TAU - Timed Actual Understandability*).

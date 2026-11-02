@@ -22,7 +22,7 @@ Os arquivos originais foram baixados diretamente do Zenodo e mantidos íntegros 
 * `experiment-artifacts.zip`: Pacote original completo baixado do Zenodo (MD5: `43486d360c80146e1080a91f336e48f8`).
 * `results-01-raw.csv`: Dados brutos exportados diretamente da ferramenta de questionário online do experimento (LimeSurvey).
 * `results-02-cleaned.csv`: Dados pré-processados com respostas completas e codificação automática inicial.
-* `results-03-final.csv`: Conjunto de dados final validado pelos autores (66 participantes válidos) com respostas de texto livre codificadas (`0` = incorreto, `1` = correto) e tempos de resposta em segundos.
+* `results-03-final.csv`: Conjunto de dados final validado pelos autores (65 participantes utilizados na versão final; o participante de ID `54` foi removido por tempos acima de 400 s, conforme o notebook oficial) com respostas de texto livre codificadas (`0` = incorreto, `1` = correto) e tempos de resposta em segundos.
 * `pattern-tasks.md`: Documentação original das 12 tarefas do experimento controlado.
 * `LICENSE.md`: Texto integral da licença CC BY 4.0.
 
@@ -32,3 +32,15 @@ Os arquivos originais foram baixados diretamente do Zenodo e mantidos íntegros 
 
 * **[Parte1_Registro_Base_Dados.md](./Parte1_Registro_Base_Dados.md):** Registro formal da base escolhida, os 5 dados obrigatórios de proveniência e justificativa dos critérios da Seção 3.2 do roteiro.
 * **[Parte3_Lista_Variaveis.md](./Parte3_Lista_Variaveis.md):** Dicionário completo de todas as 61 variáveis disponíveis na base (metadados do experimento, variáveis independentes dos 6 padrões `P` vs. `N`, variáveis dependentes de corretude `0`/`1`, tempos em segundos, métrica derivada `TAU` e variáveis demográficas/experiência em escala Likert), detalhando como cada uma foi medida.
+
+---
+
+## 4. Reprodutibilidade
+
+Os notebooks oficiais e as dependências originais estão em [`dados/brutos/experiment-artifacts/`](./dados/brutos/experiment-artifacts/):
+
+* `01-data-preprocessing.ipynb`: transforma `results-01-raw.csv` em `results-02-cleaned.csv`;
+* `02-data-analysis.ipynb`: analisa `results-03-final.csv` e produz as análises e figuras do estudo original;
+* `requirements.txt`: dependências usadas pelos notebooks.
+
+Para executar os notebooks, abra o ambiente na pasta `dados/brutos/experiment-artifacts/`. Os CSVs necessários estão nessa mesma pasta. A versão final utilizada pela equipe contém 65 participantes: 35 na sequência 1 e 30 na sequência 2. O arquivo intermediário contém 66 participantes; o ID `54` foi removido na etapa final por tempos inválidos acima de 400 s, conforme documentado no notebook oficial.

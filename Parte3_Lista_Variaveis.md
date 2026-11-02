@@ -10,7 +10,7 @@
 ## 1. Instrumentação Geral do Experimento Original
 
 Os dados foram coletados pelos autores originais (Bogner, Wójcik e Zimmermann, 2024) por meio de um **experimento controlado online** executado na plataforma **LimeSurvey**.  
-* **Participantes:** 66 participantes válidos (após remoção de questionários incompletos onde `lastpage < 29` e remoção de *outliers* de tempo `< 10 s` ou `> 400 s` por tarefa).
+* **Participantes:** 65 participantes na versão final utilizada pela equipe. O arquivo intermediário contém 66 participantes completos; o participante de ID `54` foi removido na etapa final por apresentar tempos acima de `400 s`, conforme registrado no notebook oficial. A regra de conclusão foi `lastpage >= 29`, e tempos individuais abaixo de `10 s` ou acima de `400 s` são considerados inválidos.
 * **Desenho de coleta:** Cada participante foi alocado por sorteio (`randnumber` = 1 ou 2) a uma sequência contendo **12 tarefas de compreensão de APIs** (6 padrões de API de microsserviços × 2 cenários por padrão), vendo metade das tarefas **com o padrão (`P`)** e metade **sem o padrão (`N`)**.
 
 ---
