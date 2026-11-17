@@ -43,4 +43,11 @@ Os notebooks oficiais e as dependências originais estão em [`dados/brutos/expe
 * `02-data-analysis.ipynb`: analisa `results-03-final.csv` e produz as análises e figuras do estudo original;
 * `requirements.txt`: dependências usadas pelos notebooks.
 
-Para executar os notebooks, abra o ambiente na pasta `dados/brutos/experiment-artifacts/`. Os CSVs necessários estão nessa mesma pasta. A versão final utilizada pela equipe contém 65 participantes: 35 na sequência 1 e 30 na sequência 2. O arquivo intermediário contém 66 participantes; o ID `54` foi removido na etapa final por tempos inválidos acima de 400 s, conforme documentado no notebook oficial.
+Para executar os notebooks dos autores, abra o ambiente na pasta `dados/brutos/experiment-artifacts/`. Os CSVs necessários estão nessa mesma pasta. A versão final utilizada pela equipe contém 65 participantes: 35 na sequência 1 e 30 na sequência 2. O arquivo intermediário contém 66 participantes; o ID `54` foi removido na etapa final por tempos inválidos acima de 400 s, conforme documentado no notebook oficial.
+
+### Análise da equipe (Marco 3)
+
+* [`analise_equipe.ipynb`](./analise_equipe.ipynb): análise da hipótese da equipe, com corretude média por participante nas condições P e N, teste *t* pareado principal, Wilcoxon como verificação e análises de sensibilidade/exploratórias.
+* [`Metodo_e_Ameacas.md`](./Metodo_e_Ameacas.md): rascunho da seção Método e das ameaças à validade para incorporar ao artigo no template ACM.
+
+Execute `analise_equipe.ipynb` a partir da raiz deste repositório, em um ambiente Python/Jupyter com as dependências listadas em [`dados/brutos/experiment-artifacts/requirements.txt`](./dados/brutos/experiment-artifacts/requirements.txt). O notebook lê `dados/brutos/results-03-final.csv` e não altera os dados de origem. No Wilcoxon, o relatório distingue r = 0,56 na amostra completa (n = 65, fórmula do slide da disciplina; IC bootstrap [0,34; 0,75]) de r = 0,71 ao excluir os 26 empates (n = 39).
